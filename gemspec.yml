@@ -1,5 +1,5 @@
 name: ffi-hunspell
-version: 0.3.0
+version: 0.3.1
 summary: FFI bindings for Hunspell
 description: Ruby FFI bindings for the Hunspell spell checker.
 license: MIT
@@ -13,7 +13,7 @@ requirements: libhunspell >= 1.2.0
 required_ruby_version: ">= 1.9.1"
 
 dependencies:
-  ffi: ~> 1.0
+  ffi: ~> 1.2
 
 development_dependencies:
   rubygems-tasks: ~> 0.1

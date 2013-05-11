@@ -50,7 +50,7 @@ Suggest alternate spellings for a word:
 ## Requirements
 
 * [libhunspell] >= 1.2.0
-* [ffi] ~> 1.0
+* [ffi] ~> 1.2
 
 ## Install
 
